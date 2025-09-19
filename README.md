@@ -1,3 +1,4 @@
+insight stream demo link video: https://drive.google.com/file/d/1R6Y4NNaRpMuwqrOEk56GqavLPOvHEbSG/view?usp=drivesdk
 insight stream document link pdf : https://drive.google.com/file/d/1Fnxp_aGcJIgiDIaIZu2nuiAFRYADFLAD/view?usp=drivesdk
 # Getting Started with Create React App
 
